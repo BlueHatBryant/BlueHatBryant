@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You don't reach me, I reach you
 - 😄 Pronouns: Just call me Bryant
 - ⚡ Fun fact: Jack of all trades, but master to little
--->
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluehatbryant)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
