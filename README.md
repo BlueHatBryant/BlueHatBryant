@@ -8,13 +8,13 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on AWS Security and Bug Bounties
-- 🌱 I’m currently learning more about your Mama
+- 🌱 I’m currently learning more about [redacted]
 - 👯 I’m looking to collaborate on whatever
 - 🤔 I’m looking for help with...
 - 💬 Ask me about anything
 - 📫 How to reach me: You don't reach me, I reach you
 - 😄 Pronouns: Just call me Bryant
-- ⚡ Fun fact: Jack of all trades, but master to none
+- ⚡ Fun fact: Jack of a few trades, and master to fewer than that
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
