@@ -1,5 +1,5 @@
 ## Hey, I'm Bryant &#129333;
-### I am currently a Security Solutions Architect &#127776; <br>
+### I am currently a Security Specialist Solutions Architect &#127776; <br>
 
 <!--
 **BlueHatBryant/BlueHatBryant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
