@@ -25,10 +25,6 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=bluehatbryant&show_icons=true&theme=dark" /><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!-- img align="left" width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluehatbryant&layout=compact" /> <br>
--->
-
-
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluehatbryant)](https://github.com/anuraghazra/github-readme-stats) 
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bluehatbryant)](https://github.com/anuraghazra/github-readme-stats)
+-->
