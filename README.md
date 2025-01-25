@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=bluehatbryant&show_icons=true&theme=dark" /><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<img align="left" width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluehatbryant&layout=compact" /> <br>
-
+<!-- img align="left" width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluehatbryant&layout=compact" /> <br>
+-->
 
 
 <!--
